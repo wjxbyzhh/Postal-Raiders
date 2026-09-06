@@ -16,10 +16,10 @@
   "environment": "*",
   "entrypoints": {
     "main": [
-      "com.github.wjxbyzhh.postal-raiders.fabric.ExampleModFabric"
+      "com.github.wjxbyzhh.postalraiders.fabric.ExampleModFabric"
     ],
     "client": [
-      "com.github.wjxbyzhh.postal-raiders.fabric.client.ExampleModFabricClient"
+      "com.github.wjxbyzhh.postalraiders.fabric.client.ExampleModFabricClient"
     ]
   },
   "mixins": [

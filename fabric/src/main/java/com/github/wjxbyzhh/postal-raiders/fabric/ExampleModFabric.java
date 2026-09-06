@@ -1,8 +1,8 @@
-package com.github.wjxbyzhh.postal-raiders.fabric;
+package com.github.wjxbyzhh.postalraiders.fabric;
 
 import net.fabricmc.api.ModInitializer;
 
-import com.github.wjxbyzhh.postal-raiders.ExampleMod;
+import com.github.wjxbyzhh.postalraiders.ExampleMod;
 
 public final class ExampleModFabric implements ModInitializer {
     @Override

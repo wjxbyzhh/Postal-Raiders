@@ -1,4 +1,4 @@
-package com.github.wjxbyzhh.postal-raiders.fabric.client;
+package com.github.wjxbyzhh.postalraiders.fabric.client;
 
 import net.fabricmc.api.ClientModInitializer;
 
